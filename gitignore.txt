@@ -1,0 +1,7 @@
+# Ignore the local library folder
+OpenGL/
+venv/
+
+# Ignore python compiled files
+__pycache__/
+*.pyc
