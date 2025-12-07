@@ -35,7 +35,30 @@ To run this project, you need the following installed:
 ## 🚀 How to Run
 
 ### 1. Install Dependencies
-If you haven't installed the OpenGL library yet, run this command in your terminal:
+This project requires **Python** and the **PyOpenGL** library. If you haven't installed the library yet, run this command in your terminal or command prompt:
 
 ```bash
 pip install PyOpenGL PyOpenGL_accelerate
+```
+### 2. Run the Simulation
+Once the dependencies are installed, you can run the project by executing the python file:
+
+```bash
+python src/OpenGL-Interactive-Bouncing-Box.py
+```
+## 📂 File Structure
+
+```text
+.
+├── src/
+│   └── OpenGL-House-Rainfall-Simulation.py   # Main simulation source code
+├── requirements.txt                          # List of required Python libraries
+├── .gitignore                                # Config file to ignore unnecessary local files
+└── README.md                                 # Project documentation
+```
+## 👤 Author
+* **Md. Fuadur Rahman**
+
+
+## 📄 License
+This project is for educational purposes.
