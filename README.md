@@ -44,14 +44,14 @@ pip install PyOpenGL PyOpenGL_accelerate
 Once the dependencies are installed, you can run the project by executing the python file:
 
 ```bash
-python src/OpenGL-Interactive-Bouncing-Box.py
+python src/OpenGL-Catch-The-Diamonds-Game.py
 ```
 ## 📂 File Structure
 
 ```text
 .
 ├── src/
-│   └── OpenGL-House-Rainfall-Simulation.py   # Main simulation source code
+│   └── OpenGL-Catch-The-Diamonds-Game.py   # Main simulation source code
 ├── requirements.txt                          # List of required Python libraries
 ├── .gitignore                                # Config file to ignore unnecessary local files
 └── README.md                                 # Project documentation
